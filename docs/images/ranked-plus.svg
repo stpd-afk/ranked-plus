@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ranked+">
+  <path fill="#000" d="M12 0h52v52L52 64H0V12z"/>
+  <path fill="#fff" fill-rule="evenodd" d="M12 14h16l7 7v12l-7 6 10 11H27L18 39v11h-6zm6 7v11h9l2-2v-7l-2-2z"/>
+  <path fill="#fff" d="M45 20h6v9h9v6h-9v9h-6v-9h-9v-6h9z"/>
+</svg>
